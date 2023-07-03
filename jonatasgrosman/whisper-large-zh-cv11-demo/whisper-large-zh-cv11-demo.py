@@ -1,3 +1,8 @@
+"""
+https://huggingface.co/jonatasgrosman/whisper-large-zh-cv11
+"""
+
+
 from transformers import pipeline
 import time
 import contextlib
