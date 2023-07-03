@@ -9,3 +9,5 @@ onnx
 transformers
 
 loguru
+
+datasets
