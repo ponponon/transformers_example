@@ -7,3 +7,5 @@ onnxruntime
 onnx
 
 transformers
+
+loguru
