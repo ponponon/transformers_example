@@ -11,3 +11,6 @@ transformers
 loguru
 
 datasets
+
+openai-whisper
+setuptools-rust

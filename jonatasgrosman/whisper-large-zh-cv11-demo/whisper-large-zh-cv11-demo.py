@@ -22,7 +22,8 @@ def timer(msg: str = None, logger=None):
 with timer('加载模型'):
     transcriber = pipeline(
         "automatic-speech-recognition",
-        model="jonatasgrosman/whisper-large-zh-cv11"
+        model="jonatasgrosman/whisper-large-zh-cv11",
+        device=0
     )
 
 with timer('配置模型'):
