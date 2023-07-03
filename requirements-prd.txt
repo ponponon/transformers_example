@@ -1,0 +1,9 @@
+pillow
+torch>=1.12.1
+torchvision
+numpy
+
+onnxruntime
+onnx
+
+transformers

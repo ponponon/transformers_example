@@ -1,0 +1,5 @@
+ipython
+autopep8
+psutil
+twine
+loguru
